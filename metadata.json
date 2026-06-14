@@ -1,0 +1,6 @@
+{
+  "name": "NameLink",
+  "description": "A minimal, shared DNS-like redirect system mapping custom names to secure IP targets with admin approvals, elegant apple-style styling, and fast real-time search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
